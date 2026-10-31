@@ -1,0 +1,6 @@
+{
+  "name": "IndiaCorp Financials - Real Company Balance Sheet & P&L Explorer",
+  "description": "Authentic financial data explorer for top Indian companies: Revenue, Operating Profit, Net Profit, Current Assets, Current Liabilities, Total Debt, and Equity from audited filings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
